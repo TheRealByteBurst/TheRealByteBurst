@@ -4,8 +4,7 @@
 **TheRealByteBurst/TheRealByteBurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- I'm a developer from India
-- 16 y/o
+- I'm a 16 y/o developer from India
 - Mainly Backend & Game/Engine Dev
 ---
 ### 📄 My Top Projects:
