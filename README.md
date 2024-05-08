@@ -7,9 +7,9 @@
 - I'm a 16 y/o developer from India
 - Mainly Backend & Game/Engine Dev
 ---
-### 📄 My Top Projects:
+<!--### 📄 My Top Projects:
 - [Flare Engine](https://github.com/StudioHelix/Flare)
----
+----->
 
 ### 🛠 Languages and Tools :
 <div>
